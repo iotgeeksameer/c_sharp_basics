@@ -1,5 +1,0 @@
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiersPrivate\AccessSpecifiersPrivate\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiersPrivate\AccessSpecifiersPrivate\bin\Debug\AccessSpecifiersPrivate.exe
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiersPrivate\AccessSpecifiersPrivate\bin\Debug\AccessSpecifiersPrivate.pdb
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiersPrivate\AccessSpecifiersPrivate\obj\Debug\AccessSpecifiersPrivate.exe
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiersPrivate\AccessSpecifiersPrivate\obj\Debug\AccessSpecifiersPrivate.pdb

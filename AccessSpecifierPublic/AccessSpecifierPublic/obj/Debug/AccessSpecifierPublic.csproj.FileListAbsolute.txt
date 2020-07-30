@@ -1,5 +1,0 @@
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifierPublic\AccessSpecifierPublic\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifierPublic\AccessSpecifierPublic\bin\Debug\AccessSpecifierPublic.exe
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifierPublic\AccessSpecifierPublic\bin\Debug\AccessSpecifierPublic.pdb
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifierPublic\AccessSpecifierPublic\obj\Debug\AccessSpecifierPublic.exe
-C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifierPublic\AccessSpecifierPublic\obj\Debug\AccessSpecifierPublic.pdb

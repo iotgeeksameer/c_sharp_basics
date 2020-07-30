@@ -1,0 +1,5 @@
+C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiers\AccessSpecifiers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiers\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe
+C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiers\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiers\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe
+C:\Users\tamal\Documents\Visual Studio 2008\Projects\AccessSpecifiers\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb

@@ -1,0 +1,6 @@
+C:\Users\darkbears\source\repos\tcp_client\bin\Debug\tcp_client.exe.config
+C:\Users\darkbears\source\repos\tcp_client\bin\Debug\tcp_client.exe
+C:\Users\darkbears\source\repos\tcp_client\bin\Debug\tcp_client.pdb
+C:\Users\darkbears\source\repos\tcp_client\obj\Debug\tcp_client.csproj.CoreCompileInputs.cache
+C:\Users\darkbears\source\repos\tcp_client\obj\Debug\tcp_client.exe
+C:\Users\darkbears\source\repos\tcp_client\obj\Debug\tcp_client.pdb
